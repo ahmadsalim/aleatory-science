@@ -269,13 +269,21 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/header-bg.png');
+    background-color: #222;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.overlay{
+    background-color: rgba(22,22,22,0.4);
+    overflow: hidden;
+    height: 100%;
+    z-index: 2;
 }
 
 header .intro-text {

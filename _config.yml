@@ -9,51 +9,51 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Thomas Wim Hamelryck
+  # pic: 1
+  position: Associate Professor (PI)
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: github
+      url: https://github.com/thamelry #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Fritz Henglein
+  # pic: 2
+  position: Professor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: github
+      url: https://github.com/henglein #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Ahmad Salim Al-Sibahi
+  # pic: 3
+  position: Assistant Professor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: github
+      url: https://github.com/ahmadsalim
+
+- name: Ola Rønning
+  position: PhD Fellow
+
+- name: Lys Sanz Moreta
+  position: PhD Fellow
+
+- name: Robert Schenck
+  position: PhD Fellow
+
+- name: Christian Thygesen
+  position: Industrial PhD Fellow (Evaxion)
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket 
+  #   url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/aleatory-science
 
 # Postal address (add as many lines as necessary)
 address:
