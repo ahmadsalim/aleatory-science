@@ -45,6 +45,11 @@ people:
 
 - name: Christian Thygesen
   position: Industrial PhD Fellow (Evaxion)
+  social:
+    - title: github
+      url: https://github.com/cthyge
+    - title: linkedin
+      url: https://linkedin.com/in/cthyge
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
