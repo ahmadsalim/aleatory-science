@@ -39,6 +39,9 @@ people:
 
 - name: Robert Schenck
   position: PhD Fellow
+  social:
+    - title: github
+      url: https://github.com/zfnmxt
 
 - name: Christian Thygesen
   position: Industrial PhD Fellow (Evaxion)
