@@ -59,6 +59,12 @@ people:
 - name: Robert Schenck
   modal-id: 6
   position: PhD Fellow
+  description: |
+    Robert is a PhD fellow in the Programming Languages and Theory of Computing Secton at the Department of Computer Science, University of Copenhagen. His principal supervisor is Fritz Henglein.
+
+    He works on high-performance functional programming languages with a focus on probabilistic programming.
+
+    He is an German-American who grew up in both North America and Europe. Aside from fostering strong convictions about the greatness of functional programming, he also enjoys weightlifting and---having previously aspired to becoming a pilot---has a private pilot's license. 
   social:
     - title: github
       url: https://github.com/zfnmxt
