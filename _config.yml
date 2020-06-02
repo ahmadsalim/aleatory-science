@@ -32,7 +32,13 @@ people:
       url: https://github.com/ahmadsalim
 
 - name: Ola Rønning
+  pic: ola
   position: PhD Fellow
+  social:
+    - title: github
+      url: https://github.com/OlaRonning
+    - title: linkedin
+      url: https://www.linkedin.com/in/ola-rønning-bb323082/
 
 - name: Lys Sanz Moreta
   position: PhD Fellow
