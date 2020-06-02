@@ -12,6 +12,7 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Thomas Wim Hamelryck
   # pic: 1
+  modal-id: 1
   position: Associate Professor (PI)
   social:
     - title: github
@@ -19,6 +20,7 @@ people:
 
 - name: Fritz Henglein
   # pic: 2
+  modal-id: 2
   position: Professor
   social:
     - title: github
@@ -26,13 +28,23 @@ people:
 
 - name: Ahmad Salim Al-Sibahi
   pic: ahmadsalim
+  modal-id: 3
   position: Assistant Professor
+  description: |
+    Ahmad Salim Al-Sibahi is an Assistant Professor at Department of Computer Science, University of Copenhagen. He works on inference algorithms for powering protein folding.
+
+    He previously was at Skanned and Department of Computer Science, University of Copenhagen, working with Thomas Hamelryck and Fritz Henglein. There, he working on how to use probabilistic programming to improve the scanning component of Skanned’s API.
+
+    He was previously a PhD Fellow and Postdoc at the IT University of Copenhagen as a part of the Software Quality Research group, under the supervision of Andrzej Wąsowski and Aleksandar Dimovski. His PhD project was about how to practically use programming language techniques to analyze high-level transformation programs. During his PhD, he had a research visit to the Celtique group at INRIA Rennes, working with Thomas Jensen.
+
+    He was also recently a contributor to the dependently-typed programming language Idris.
   social:
     - title: github
       url: https://github.com/ahmadsalim
 
 - name: Ola Rønning
   pic: ola
+  modal-id: 4
   position: PhD Fellow
   social:
     - title: github
@@ -41,15 +53,18 @@ people:
       url: https://www.linkedin.com/in/ola-rønning-bb323082/
 
 - name: Lys Sanz Moreta
+  modal-id: 5
   position: PhD Fellow
 
 - name: Robert Schenck
+  modal-id: 6
   position: PhD Fellow
   social:
     - title: github
       url: https://github.com/zfnmxt
 
 - name: Christian Thygesen
+  modal-id: 7
   pic: christian
   position: Industrial PhD Fellow (Evaxion)
   social:
