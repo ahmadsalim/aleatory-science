@@ -1,6 +1,6 @@
 ---
-title: DeepReading
-subtitle: Scientific Reading Group
+title: A Probabilistic Programming Approach to Protein Structure Superposition
+subtitle:  Lys Sanz Moreta,  Ahmad Salim Al-Sibahi,  Douglas Theobald, William Bullock, Basile Nicolas Rommes, Andreas Manoukian,  Thomas Hamelryck (CIBCB 2019)
 layout: default
 modal-id: 2
 date: 2020-06-11
