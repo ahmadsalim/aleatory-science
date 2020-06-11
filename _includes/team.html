@@ -15,7 +15,11 @@
                 <div class="col-sm-4">
                     <div class="team-member">
                         <a href="#personModal{{ member.modal-id }}" data-toggle="modal">
-                        <img src="img/team/{{ member.pic | default: 'person' }}.jpg" style="width: 225px;" class="img-responsive img-circle" alt="">
+                        {% if member.pic %}
+                            <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-centered img-circle" style="max-width: 225px;" alt="{{member.name}}">
+                        {% else %}
+                            <img src="https://picsum.photos/225?random={{forloop.index}}" class="img-responsive img-centered img-circle" style="max-width: 225px;" alt="{{member.name}}">
+                        {% endif %}
                         </a>
                         <a href="#personModal{{ member.modal-id }}" data-toggle="modal">
                         <h4>{{ member.name }}</h4>
