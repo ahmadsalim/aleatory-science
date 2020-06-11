@@ -38,3 +38,7 @@ Icon
 
 # Cache
 .jekyll-cache/
+
+js/pdfjs2/web/cmaps/
+
+js/pdfjs2/web/
