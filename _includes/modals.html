@@ -15,7 +15,7 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             {% if post.img contains '.pdf' %}
-                            <img data-pdf-thumbnail-file="{{ site.url }}/img/publication/{{ post.img }}" 
+                            <img data-pdf-thumbnail-file="img/publication/{{ post.img }}" 
                                  data-pdf-thumbnail-width="406"
                                  data-pdf-thumbnail-height="289"
                                  src="https://via.placeholder.com/406x289.png?text=PDF" class="img-responsive img-centered" alt="{{ post.alt }}">
