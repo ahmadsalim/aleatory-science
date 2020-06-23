@@ -55,6 +55,11 @@ people:
 - name: Lys Sanz Moreta
   modal-id: 5
   position: PhD Fellow
+  social:
+    - title: github
+      url: https://github.com/LysSanzMoreta
+    - title: github
+      url: https://www.linkedin.com/in/lys-sanz-moreta-6280a271/
 
 - name: Robert Schenck
   modal-id: 6
