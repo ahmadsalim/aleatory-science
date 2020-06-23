@@ -53,12 +53,13 @@ people:
       url: https://www.linkedin.com/in/ola-rønning-bb323082/
 
 - name: Lys Sanz Moreta
+  pic: lys
   modal-id: 5
   position: PhD Fellow
   social:
     - title: github
       url: https://github.com/LysSanzMoreta
-    - title: github
+    - title: linkedin
       url: https://www.linkedin.com/in/lys-sanz-moreta-6280a271/
 
 - name: Robert Schenck
