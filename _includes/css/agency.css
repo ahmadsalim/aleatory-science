@@ -877,3 +877,9 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+.footer-logo {
+    font-family: "Righteous","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #{{ site.data.template.color.primary }};
+    font-size: 55px;
+}
