@@ -882,4 +882,5 @@ body {
     font-family: "Righteous","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
     font-size: 55px;
+    display: flex;
 }
