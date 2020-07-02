@@ -47,3 +47,4 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | 2020-08-13 | Geyer, Charles J. "Introduction to Markov Chain Monte Carlo." In Brooks, Steve, et al., eds. "Handbook of Markov Chain Monte Carlo." CRC press, 2011. (Continued from 06-25.) | Christian & Christophe |
 | 2020-08-20 | TBD | Robert |
 | 2020-08-27 | TBD | Thomas & Jotun |
+| 2020-09-03 | Quasi-MC | Ahmad & Ola |
