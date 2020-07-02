@@ -43,4 +43,4 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | 2020-06-11 | Wilson, C., et al. "Using ancient protein kinases to unravel a modern cancer drug’s mechanism." Science 347.6224 (2015): 882-886. | Jotun |
 | 2020-06-18 | Baydin, Atilim Güneş, et al. "Etalumis: bringing probabilistic programming to scientific simulators at scale." Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. 2019. | Ahmad |
 | 2020-06-25 | Geyer, Charles J. "Introduction to Markov Chain Monte Carlo." In Brooks, Steve, et al., eds. "Handbook of Markov Chain Monte Carlo." CRC press, 2011. | Christian  |
-| 2020-07-02 | Geyer, Charles J. "Introduction to Markov Chain Monte Carlo." In Brooks, Steve, et al., eds. "Handbook of Markov Chain Monte Carlo." CRC press, 2011. (Continued from the prior meeting.) | Christian & Christophe |
+| 2020-07-09 | Frankle, Jonathan, and Michael Carbin. "The lottery ticket hypothesis: Finding sparse, trainable neural networks." arXiv preprint arXiv:1803.03635 (2018). | Ola |
