@@ -2,7 +2,7 @@
  {% for post in site.posts %}
     <div class="publication-modal modal fade" id="publicationModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
+            <div class="close-modal" data-dismiss="modal" onclick="removeHash()">
                 <div class="lr">
                     <div class="rl">
                     </div>
@@ -31,7 +31,7 @@
                                     </strong>
                                 </li>
                             </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            <button type="button" class="btn btn-default" data-dismiss="modal" onclick="removeHash()"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
                 </div>
@@ -42,7 +42,7 @@
 {% for member in site.people %}
 <div class="publication-modal modal fade" id="personModal{{ member.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
+        <div class="close-modal" data-dismiss="modal" onclick="removeHash()">
             <div class="lr">
                 <div class="rl">
                 </div>
@@ -60,7 +60,7 @@
                             <img src="https://picsum.photos/225?random={{forloop.index}}" class="img-responsive img-centered img-circle" style="max-width: 225px;" >
                         {% endif %}
                         <p>{{ member.description | markdownify }}</p>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal" onclick="removeHash()"><i class="fa fa-times"></i> Close</button>
                     </div>
                 </div>
             </div>

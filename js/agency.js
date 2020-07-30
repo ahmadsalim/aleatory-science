@@ -28,10 +28,32 @@ $('.navbar-collapse ul li a').click(function() {
 $('div.modal').on('show.bs.modal', function() {
 	var modal = this;
 	var hash = modal.id;
-	window.location.hash = hash;
+    window.location.hash = hash;
 	window.onhashchange = function() {
-		if (!location.hash){
+		if (!window.location.hash){
 			$(modal).modal('hide');
-		}
+        }
 	}
 });
+
+function removeHash() {
+    // From https://stackoverflow.com/a/5298684
+    var scrollV, scrollH, loc = window.location;
+    if ("pushState" in history)
+        history.pushState("", document.title, loc.pathname + loc.search);
+    else {
+        // Prevent scrolling by storing the page's current scroll offset
+        scrollV = document.body.scrollTop;
+        scrollH = document.body.scrollLeft;
+
+        loc.hash = "";
+
+        // Restore the scroll offset, should be flicker free
+        document.body.scrollTop = scrollV;
+        document.body.scrollLeft = scrollH;
+    }
+}
+
+if (window.location.hash.startsWith('#publicationModal')) {
+    $(window.location.hash).modal('show');
+}
