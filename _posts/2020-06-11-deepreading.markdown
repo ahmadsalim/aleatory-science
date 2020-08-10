@@ -77,5 +77,6 @@ description: DeepReading group on machine learning, probabilistic programming, h
 
 {:.table-striped .table-hover .table}
 |     Name      |       Position     |    University   |
+|---------------|--------------------|-----------------|
 | Christian Breinholt | MSc Student | University of Copenhagen |
 | Andreas Manoukian | Teaching Assistant | University of Copenhagen |
