@@ -49,3 +49,33 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | 2020-08-20 | TBD | Robert |
 | 2020-08-27 | TBD | Thomas & Jotun |
 | 2020-09-03 | Quasi-MC | Ahmad & Ola |
+
+### Participants
+
+#### PIs and PhDs
+
+{:.table-striped .table-hover .table}
+|     Name      |       Position     |    University   | Area |
+|-----------------|-----------------|----------------|------|
+| Ahmad Salim Al-Sibahi | Assistant Professor | University of Copenhagen | Computer Science |
+| Yan Cui | Visiting PhD Student | University of Copenhagen | Statistics |
+| Fatemeh Ghaderinezhad | PhD Student | Ghent University | Statistics |
+| Thomas Hamelryck | Associate Professor | University of Copenhagen | Biology/Computer Science |
+| Jotun Hein | Professor | University of Oxford | Statistics |
+| Fritz Henglein | Professor | University of Copenhagen | Computer Science |
+| Gabrielle Keller | Professor | Utrecht University | Computer Science |
+| Christophe Ley | Assistant Professor | Ghent University | Statistics |
+| Kanti Mardia | Professor | University of Leeds | Statistics |
+| Lys Sanz Moreta | PhD Student | University of Copenhagen | Computer Science |
+| Ola Rønning | PhD Student | University of Copenhagen | Computer Science |
+| Robert Schenck | PhD Student | University of Copenhagen | Computer Science |
+| Christian Thygesen | Industrial PhD Student | University of Copenhagen/Evaxion | Computer Science |
+| Jeroen van der Weer | PhD Student | University of Copenhagen | Mathematics |
+| Pawel Winter | Professor | University of Copenhagen | Computer Science |
+
+#### Others
+
+{:.table-striped .table-hover .table}
+|     Name      |       Position     |    University   |
+| Christian Breinholt | MSc Student | University of Copenhagen |
+| Andreas Manoukian | Teaching Assistant | University of Copenhagen |
