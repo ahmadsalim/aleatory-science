@@ -12,7 +12,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Thomas Wim Hamelryck
-  # pic: 1
+  pic: thomas
   modal-id: 1
   position: Associate Professor (PI)
   social:
