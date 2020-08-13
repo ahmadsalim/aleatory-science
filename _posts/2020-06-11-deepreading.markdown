@@ -45,8 +45,7 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | 2020-06-25 | Geyer, Charles J. "Introduction to Markov Chain Monte Carlo." In Brooks, Steve, et al., eds. "Handbook of Markov Chain Monte Carlo." CRC press, 2011. | Christian  |
 | 2020-07-09 | Frankle, Jonathan, and Michael Carbin. "The lottery ticket hypothesis: Finding sparse, trainable neural networks." arXiv preprint arXiv:1803.03635 (2018). | Ola |
 | 2020-08-06 | Louizos, Christos, et al. "Causal effect inference with deep latent-variable models." Advances in Neural Information Processing Systems. 2017. | Ahmad |
-| 2020-08-13 | Geyer, Charles J. "Introduction to Markov Chain Monte Carlo." In Brooks, Steve, et al., eds. "Handbook of Markov Chain Monte Carlo." CRC press, 2011. (Continued from 06-25.) | Christian & Christophe |
-| 2020-08-20 | TBD | Robert |
+| 2020-08-20 | Wazim Mohammed Ismail and Chung-chieh Shan. 2016. Deriving a probability density calculator (functional pearl). SIGPLAN Not. 51, 9 (September 2016), 47–59. | Robert |
 | 2020-08-27 | TBD | Thomas & Jotun |
 | 2020-09-03 | Quasi-MC | Ahmad & Ola |
 
