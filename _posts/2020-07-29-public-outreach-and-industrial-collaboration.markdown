@@ -21,10 +21,4 @@ The Aleatory Science team is one of the organizers of the [Pioneers of the Proba
 ### Student Projects with Industrial Collaboration
 We offer a number of collaboration opportunities with industrial partners for student projects at BSc and MSc levels. For companies, it provides an opportunity to apply the latest probabilistic programming technology for experimental tasks that they would normally not have time to do. For students, it provides an opportunity to apply their skills for practical problems and a path to interesting future job opportunities.
 
-{:.table-striped .table-hover .table}
-| Company   | Topic | Level |
-|:---------:|:----------------:|:-----:|
-| [Paperflow](https://paperflow.com) | Invoice Processing | BSc/MSc |
-| [Relion](https://relion.dk) | Shift planning based on worker availability, historical sales data, weather and holidays. <br /> Employee satisfaction quantification based on previously assigned shifts <br /> Employee shift assignment based on wishes and need | BSc/MSc |
-| [Hypefactors](https://hypefactors.com) | Media and Reputation Technology | BSc/MSc |
-| \< Your Company Here \> | \< Contact Ahmad Salim to Hear more \> | BSc/MSc |
+Currently, we have partnerships with companies like [Paperflow](https://paperflow.com), [Relion](https://relion.dk) and [Hypefactors](https://hypefactors.com). See the [project descriptions here](https://github.com/aleatory-science/deep-probprog-course/tree/next-course#part-ii---deep-probabilistic-programming-project).
