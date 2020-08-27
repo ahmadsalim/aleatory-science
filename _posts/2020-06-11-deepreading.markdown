@@ -46,7 +46,7 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | 2020-07-09 | Frankle, Jonathan, and Michael Carbin. "The lottery ticket hypothesis: Finding sparse, trainable neural networks." arXiv preprint arXiv:1803.03635 (2018). | Ola |
 | 2020-08-06 | Louizos, Christos, et al. "Causal effect inference with deep latent-variable models." Advances in Neural Information Processing Systems. 2017. | Ahmad |
 | 2020-08-20 | Wazim Mohammed Ismail and Chung-chieh Shan. 2016. Deriving a probability density calculator (functional pearl). SIGPLAN Not. 51, 9 (September 2016), 47–59. | Robert |
-| 2020-08-27 | TBD | Thomas & Jotun |
+| 2020-08-27 | Joy JB, Liang RH, McCloskey RM, Nguyen T, Poon AFY (2016) Ancestral Reconstruction. PLoS Comput Biol 12(7): e1004763. https://doi.org/10.1371/journal.pcbi.1004763 | Thomas & Jotun |
 | 2020-09-03 | Quasi-MC | Ahmad & Ola |
 
 ### Participants
