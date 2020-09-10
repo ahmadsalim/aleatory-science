@@ -71,7 +71,7 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | Christian Thygesen | Industrial PhD Student | University of Copenhagen/Evaxion | Computer Science |
 | Jeroen van der Weer | PhD Student | University of Copenhagen | Mathematics |
 | Pawel Winter | Professor | University of Copenhagen | Computer Science |
-| Kübra Altinel | PhD Student| University of Copenhage | Biology
+| Kübra Altinel | PhD Student| University of Copenhagen | Biology
 
 #### Others
 
