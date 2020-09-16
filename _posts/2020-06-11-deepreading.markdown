@@ -48,7 +48,7 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | 2020-08-20 | Wazim Mohammed Ismail and Chung-chieh Shan. 2016. Deriving a probability density calculator (functional pearl). SIGPLAN Not. 51, 9 (September 2016), 47–59. | Robert |
 | 2020-08-27 | [Joy JB, Liang RH, McCloskey RM, Nguyen T, Poon AFY (2016) Ancestral Reconstruction. PLoS Comput Biol 12(7): e1004763.](https://doi.org/10.1371/journal.pcbi.1004763) | Thomas & Jotun |
 | 2020-09-10 | Dirk P. Kroese, Thomas Taimre and Zdrvako I. Botev (2011) Quasirandom Number Generation. Handbook of Monte Carlo Methods. | Ahmad & Ola |
-| 2020-09-17 | [On the Impact of the Choice of the Prior in Bayesian Statistics](https://www.intechopen.com/books/bayesian-inference-on-complicated-data/on-the-impact-of-the-choice-of-the-prior-in-bayesian-statistics) | Fatemeh |
+| 2020-09-17 | Fatemeh Ghaderinezhad and Christophe Ley (2019) [On the Impact of the Choice of the Prior in Bayesian Statistics](https://www.intechopen.com/books/bayesian-inference-on-complicated-data/on-the-impact-of-the-choice-of-the-prior-in-bayesian-statistics) | Fatemeh |
 
 ### Participants
 
