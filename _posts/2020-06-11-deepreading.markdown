@@ -50,6 +50,7 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | 2020-09-10 | Dirk P. Kroese, Thomas Taimre and Zdrvako I. Botev (2011) Quasirandom Number Generation. Handbook of Monte Carlo Methods. | Ahmad & Ola |
 | 2020-09-17 | Fatemeh Ghaderinezhad and Christophe Ley (2019) [On the Impact of the Choice of the Prior in Bayesian Statistics](https://www.intechopen.com/books/bayesian-inference-on-complicated-data/on-the-impact-of-the-choice-of-the-prior-in-bayesian-statistics) | Fatemeh |
 | 2020-09-24 | Fatemeh Ghaderinezhad, Christophe Ley, and Ben Serrien (Preprint) The Wassertein Impact Measure (WIM): a generally applicable, partical tool for quantifying prior impact on Bayesian statistics  | Fatemeh |
+
 ### Participants
 
 #### PIs and PhDs
