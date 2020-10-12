@@ -66,7 +66,7 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | Jotun Hein | Professor | University of Oxford | Statistics |
 | Fritz Henglein | Professor | University of Copenhagen | Computer Science |
 | Gabrielle Keller | Professor | Utrecht University | Computer Science |
-| Christophe Ley | Assistant Professor | Ghent University | Statistics |
+| Christophe Ley | Associate Professor | Ghent University | Statistics |
 | Kanti Mardia | Professor | University of Leeds | Statistics |
 | Lys Sanz Moreta | PhD Student | University of Copenhagen | Computer Science |
 | Ola Rønning | PhD Student | University of Copenhagen | Computer Science |
