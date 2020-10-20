@@ -51,6 +51,7 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | 2020-09-17 | Fatemeh Ghaderinezhad and Christophe Ley (2019) [On the Impact of the Choice of the Prior in Bayesian Statistics](https://www.intechopen.com/books/bayesian-inference-on-complicated-data/on-the-impact-of-the-choice-of-the-prior-in-bayesian-statistics) | Fatemeh |
 | 2020-09-24 | Fatemeh Ghaderinezhad, Christophe Ley, and Ben Serrien (Preprint) The Wassertein Impact Measure (WIM): a generally applicable, partical tool for quantifying prior impact on Bayesian statistics  | Fatemeh |
 | 2020-10-01 | The phylogentic variational autoencoder (Slides only)  |  Thomas |
+| 2020-10-22 | Recent Applications of Stein's Method in Machine Learning (Slides only) |  Qiang Liu |
 
 ### Participants
 
