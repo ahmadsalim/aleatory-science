@@ -52,6 +52,7 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | 2020-09-24 | Fatemeh Ghaderinezhad, Christophe Ley, and Ben Serrien (Preprint) The Wassertein Impact Measure (WIM): a generally applicable, partical tool for quantifying prior impact on Bayesian statistics  | Fatemeh |
 | 2020-10-01 | The phylogentic variational autoencoder (Slides only)  |  Thomas |
 | 2020-10-22 | Recent Applications of Stein's Method in Machine Learning (Slides only) |  Qiang Liu |
+| 2020-10-29 | Rajesh Ranganath, Dustin Tran, David Blei,  [Hierarchical Variational Models](https://arxiv.org/pdf/1511.02386.pdf) | Ola Rønning |
 | 2020-11-05 | Aki Vehtari, Andrew Gelman, Daniel Simpson, Bob Carpenter, and Paul-Christian Bürkner [Rank-normalization, folding, and localization:An improved R̂ for assessing convergence of MCMC*](https://arxiv.org/abs/1903.08008) | Thomas Hamelryck |
 | 2020-11-12 | Subhadeep Mukhopadhyay & Douglas Fletcher [Generalized Empirical Bayes Modeling via Frequentist Goodness of Fit](https://www.nature.com/articles/s41598-018-28130-5) | Christophe Ley |
 | 2020-11-19 | Michael Betancourt [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434) | Thomas Hamelryck |
