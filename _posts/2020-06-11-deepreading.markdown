@@ -57,6 +57,8 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | 2020-11-12 | Subhadeep Mukhopadhyay & Douglas Fletcher [Generalized Empirical Bayes Modeling via Frequentist Goodness of Fit](https://www.nature.com/articles/s41598-018-28130-5) | Christophe Ley |
 | 2020-11-19 | Michael Betancourt [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434) | Thomas Hamelryck |
 | 2020-11-25 | Michael Betancourt [The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling](http://proceedings.mlr.press/v37/betancourt15.pdf) | Ola Rønning |
+| 2021-03-11 | An Overview of Bayesian Inference | Thomas Hamelryck |
+
 
 
 ### Participants
