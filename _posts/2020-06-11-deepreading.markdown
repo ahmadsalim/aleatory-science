@@ -56,10 +56,18 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | 2020-11-05 | Aki Vehtari, Andrew Gelman, Daniel Simpson, Bob Carpenter, and Paul-Christian Bürkner [Rank-normalization, folding, and localization:An improved R̂ for assessing convergence of MCMC*](https://arxiv.org/abs/1903.08008) | Thomas Hamelryck |
 | 2020-11-12 | Subhadeep Mukhopadhyay & Douglas Fletcher [Generalized Empirical Bayes Modeling via Frequentist Goodness of Fit](https://www.nature.com/articles/s41598-018-28130-5) | Christophe Ley |
 | 2020-11-19 | Michael Betancourt [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434) | Thomas Hamelryck |
-| 2020-11-25 | Michael Betancourt [The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling](http://proceedings.mlr.press/v37/betancourt15.pdf) | Ola Rønning |
+| 2020-11-27 | Michael Betancourt [The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling](http://proceedings.mlr.press/v37/betancourt15.pdf) | Ola Rønning |
+| 2020-12-04 | [Topology  Of  Deep  Neural  Networks](https://arxiv.org/abs/2004.06093) | Ahmad Salim Al-Sibahi |
+| 2020-12-11 | [Protein energy landscape exploration with structure-based models](https://www.sciencedirect.com/science/article/pii/S0959440X20301263) | Jotun Hein |
+| 2020-12-18 |  CASP14 and AlphaFold2 | Jotun Hein and Thomas Hamelryck |
+| 2020-01-07 |  [Introduction to Futhark](https://futhark-lang.org/index.html) | Troels Henriksen |
 | 2021-03-11 | An Overview of Bayesian Inference | Thomas Hamelryck |
-
-
+| 2021-03-18 | [The LORACs prior for VAEs: Letting the Trees Speak for the Data](https://export.arxiv.org/pdf/1810.06891) | Thomas Hamelryck |
+| 2021-03-25 | [Differentiable molecular simulation can learn all the parameters in a coarse-grained force field for proteins](https://www.biorxiv.org/content/10.1101/2021.02.05.429941v1) | Thomas Hamelryck |
+| 2021-04-08 | [Persistent topology of protein space](https://arxiv.org/pdf/2102.06768.pdf) |  Wesley Hamilton and Elyse Borgert |
+| 2021-04-22 | [Distance geometry --- History and applications](http://web.mit.edu/tfhavel/www/Public/dg-review.pdf) | Jeroen van der Weer |
+| 2021-04-29 | [Distances  in  Gaussian  point  sets](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/distances-in-gaussian-point-sets/9B4C70C01A9A800323146D54D68B45F5) | Thomas Hamelryck |
+| 2021-05-06 | [Sine-skewed toroidal distributions and their application in protein bioinformatics](https://arxiv.org/abs/1910.13293v1) | Ola Rønning |
 
 ### Participants
 
@@ -83,7 +91,12 @@ description: DeepReading group on machine learning, probabilistic programming, h
 | Christian Thygesen | Industrial PhD Student | University of Copenhagen/Evaxion | Computer Science |
 | Jeroen van der Weer | PhD Student | University of Copenhagen | Mathematics |
 | Pawel Winter | Professor | University of Copenhagen | Computer Science |
-| Kübra Altinel | PhD Student| University of Copenhagen | Biology
+| Kübra Altinel | PhD Student| University of Copenhagen | Biology |
+| Wesley Hamilton | Post Doc | University of North Carolina at Chapel Hill | Mathmatics |
+| Elyse Borgert | PhD Student | University of North Carolina at Chapel Hill | Statistics |
+| Steve Marron  | Professor | University of North Carolina at Chapel Hill | Statistics |
+
+
 
 #### Others
 
