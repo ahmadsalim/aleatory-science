@@ -884,3 +884,13 @@ body {
     font-size: 55px;
     display: flex;
 }
+
+.img-cropped {
+    object-fit:cover;
+    object-position: right;
+    width: 200px;
+    height: 200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
