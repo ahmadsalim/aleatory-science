@@ -55,9 +55,9 @@
                         <h2>{{ member.name }}</h2>
                         <hr class="star-primary">
                         {% if member.pic %}
-                            <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-centered img-circle" style="max-width: 225px;" >
+                            <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-centered img-circle img-cropped" style="max-width: 225px;" >
                         {% else %}
-                            <img src="https://picsum.photos/225?random={{forloop.index}}" class="img-responsive img-centered img-circle" style="max-width: 225px;" >
+                            <img src="https://picsum.photos/225?random={{forloop.index}}" class="img-responsive img-centered img-circle img-cropped" style="max-width: 225px;" >
                         {% endif %}
                         <p>{{ member.description | markdownify }}</p>
                         <button type="button" class="btn btn-default" data-dismiss="modal" onclick="removeHash()"><i class="fa fa-times"></i> Close</button>
